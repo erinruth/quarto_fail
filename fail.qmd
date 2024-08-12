@@ -12,7 +12,7 @@ i <- function() stop("WRONG")
 ```
 
 ```{r}
-
+### do the thing
 f()
 
 ```
